@@ -21,11 +21,17 @@ Analyze Results: Review the solutions, difficulties, and other analytical data p
 
 ## Commands
 Generate Random Board: Creates a board with random numbers within a specified range.
+
 Generate Pattern Board: Generates a board based on a specific numerical pattern.
+
 Generate Random Dice: Rolls random dice within specified limits.
+
 Solve Equation: Finds the easiest solution to an equation based on dice rolls and a target number.
+
 Find Difficulty: Calculates the difficulty of a given equation.
+
 Find Board Difficulty: Analyzes the difficulty level of an entire board.
+
 Installation and Execution
 To run the application, ensure Python 3.x is installed. Clone or download the repository, navigate to the project directory, and execute the script.
 
